@@ -1,0 +1,13 @@
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.exe
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.deps.json
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.runtimeconfig.json
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.runtimeconfig.dev.json
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.dll
+C:\Users\ACER\AulaPOO_Abstração\bin\Debug\netcoreapp3.1\AulaPOO_Abstração.pdb
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.csprojAssemblyReference.cache
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.AssemblyInfoInputs.cache
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.AssemblyInfo.cs
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.csproj.CoreCompileInputs.cache
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.dll
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.pdb
+C:\Users\ACER\AulaPOO_Abstração\obj\Debug\netcoreapp3.1\AulaPOO_Abstração.genruntimeconfig.cache
