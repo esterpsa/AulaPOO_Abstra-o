@@ -38,9 +38,5 @@ namespace AulaPOO_Abstração.classes
                 
             }
         }
-        public void ExibirNota(string titular, float total){
-            Console.WriteLine($"Titular: {titular} - valor da compra = {total}");
-            
-        }
     }
 }
